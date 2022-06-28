@@ -1,4 +1,4 @@
-UI Designer trying to learn some code 😃
+Trying to learn some code, for fun, for a personal site and music related projects 😃
 
 
 <!---
