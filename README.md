@@ -1,4 +1,4 @@
-Trying to learn some code, for fun, for a personal site and music related projects 😃
+Trying to learn some code, for fun, to create a personal site and music related projects 😃
 
 
 <!---
